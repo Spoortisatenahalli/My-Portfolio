@@ -9,17 +9,17 @@ const profile =  require("./assets/profile.png");
 // Tech stack images
 const html = require("./assets/techstack/html.png");
 const css = require("./assets/techstack/css.png");
-const sass = require("./assets/techstack/sass.png");
+// const sass = require("./assets/techstack/sass.png");
 const js = require("./assets/techstack/js.png");
 const react = require("./assets/techstack/react.png");
-const redux = require("./assets/techstack/redux.png");
+// const redux = require("./assets/techstack/redux.png");
 const tailwind = require("./assets/techstack/tailwind.png");
 const bootstrap = require("./assets/techstack/bootstrap.png");
 const vscode = require("./assets/techstack/vscode.png");
 const github = require("./assets/techstack/github.png");
 const git = require("./assets/techstack/git.png");
 const npm = require("./assets/techstack/npm.png");
-const postman = require("./assets/techstack/postman.png");
+// const postman = require("./assets/techstack/postman.png");
 const figma = require("./assets/techstack/figma.png");
 const typescript = require("./assets/techstack/typescript.png")
 const newrelic= require("./assets/techstack/new_relic.png")
@@ -29,7 +29,7 @@ const projectImage2 = require("./assets/projects/project2-image.png");
 const projectImage3 = require("./assets/projects/project3-image.png");
 const image = require("./assets/projects/image.png");
 const Protfolio = require("./assets/projects/Protfolio.png");
-const projectImage6 = require("./assets/projects/project6.jpg");
+// const projectImage6 = require("./assets/projects/project6.jpg");
 
 // Logos
 type Logos = {
